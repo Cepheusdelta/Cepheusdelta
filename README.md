@@ -16,11 +16,10 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) |
 | **Analysis** | 
-| **Visualization** |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+| **Visualization** | ![Origin](https://img.shields.io/badge/Origin-14315D?style=for-the-badge&logo=origin&logoColor=white) |
+| **Tools** | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Access](https://img.shields.io/badge/Microsoft_Access-A33338?style=for-the-badge&logo=microsoft-access&logoColor=white) ![Minitab](https://img.shields.io/badge/Minitab-0072C6?style=for-the-badge&logo=minitab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 ---
 
 ### 📈 GitHub Stats
